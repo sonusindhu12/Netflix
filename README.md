@@ -1,4 +1,5 @@
  Netflix Title Analytics
+ 
 📌 Project Overview
 
 Netflix Title Analytics is a data analysis project that explores Netflix's content library to uncover trends in movies and TV shows. Using Python, SQL, and Power BI, the project analyzes content distribution, release patterns, ratings, genres, and country-wise contributions to generate actionable insights from over 8,800 Netflix titles.
